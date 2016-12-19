@@ -1,0 +1,30 @@
+{
+  "name": "anm",
+  "version": "1.0.0",
+  "description": "Coding challenge for ANM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HugoEncinas/ANM.git"
+  },
+  "author": "Hugo Encinas",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/HugoEncinas/ANM/issues"
+  },
+  "homepage": "https://github.com/HugoEncinas/ANM#readme",
+  "devDependencies": {
+    "browser-sync": "^2.7.12",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-cache": "^0.4.5",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-sass": "^3.0.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-useref": "^3.1.2",
+    "run-sequence": "^1.2.2"
+  }
+}
