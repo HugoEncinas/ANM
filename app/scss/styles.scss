@@ -2,3 +2,41 @@ $base: white;
 body{
   background-color: $base;
 }
+
+.header,footer.page-footer{
+  background-color: #d7d1e4;
+}
+.input-field label{
+  color:#2b2b2b;
+}
+
+.brand-logo{
+  margin-bottom: 0;
+  img{
+    max-height: 56px;
+    width: auto;
+  }
+}
+
+.page-footer{
+  display: block;
+  display: -webkit-box;
+}
+
+#table-form{
+  min-height: 100px;
+  margin: 10px 0px;
+}
+
+#table{
+  display: table;
+  min-height: 50px;
+}
+th{
+  font-weight: bold;
+}
+
+.btn{
+  min-width: 148px;
+  margin: 10px;
+}
